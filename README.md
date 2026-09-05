@@ -1,6 +1,6 @@
 # xxxxxx for astra
 
-[![skills.sh](https://skills.sh/b/chengyixu/xxxxxx-for-astra)](https://skills.sh/chengyixu/xxxxxx-for-astra)
+[![skills.sh](https://skills.sh/b/chengyixu/xxxxxx-for-astra)](https://www.skills.sh/chengyixu/xxxxxx-for-astra/xxxxxx-for-astra)
 
 A small agent skill for cleaning up the instruction surface around `SKILL.md`,
 `AGENTS.md`, and `CLAUDE.md` files.
@@ -18,6 +18,8 @@ npx skills add chengyixu/xxxxxx-for-astra
 ```
 
 Or copy this repository into a compatible agent's skill directory.
+
+Browse it on [skills.sh](https://www.skills.sh/chengyixu/xxxxxx-for-astra/xxxxxx-for-astra). SkillsMP ingests public GitHub `SKILL.md` repositories automatically; its search index can lag new GitHub publications.
 
 ## What it checks
 
