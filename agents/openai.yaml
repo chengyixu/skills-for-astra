@@ -1,0 +1,4 @@
+interface:
+  display_name: "xxxxxx for astra"
+  short_description: "Reduce agent instruction bloat safely"
+  default_prompt: "Audit this agent setup for oversized skills, recursive discovery, stale global instructions, and unsafe always-on workflows."
