@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
-  <title id="title">xxxxxx for astra</title>
+  <title id="title">Context Hygiene for Astra</title>
   <desc id="desc">A dark launch card showing a focused agent instruction router.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10121c"/><stop offset="1" stop-color="#19112c"/></linearGradient>
@@ -27,7 +27,7 @@
     <text x="1124" y="641">CLEAR BOUNDARIES</text>
   </g>
   <text x="145" y="260" fill="#a9bcdd" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="6">OPEN AGENT SKILL</text>
-  <text x="145" y="360" fill="#f5f7ff" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700">xxxxxx for astra</text>
+  <text x="145" y="360" fill="#f5f7ff" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700">Context Hygiene for Astra</text>
   <text x="145" y="426" fill="#b9c7e8" font-family="Arial, Helvetica, sans-serif" font-size="28">Thin prompts. Clear boundaries. Better agents.</text>
   <rect x="145" y="510" width="250" height="7" rx="3.5" fill="url(#glow)"/>
 </svg>
