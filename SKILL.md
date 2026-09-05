@@ -1,11 +1,11 @@
 ---
-name: context-hygiene-for-astra
+name: skills-for-astra
 description: Audit and slim agent skills and always-loaded instruction files using progressive disclosure, narrow triggers, and explicit decision boundaries.
 metadata:
   short-description: Reduce agent instruction bloat safely
 ---
 
-# Context Hygiene for Astra
+# Skills for Astra
 
 Use when a user asks to audit, simplify, or modernize an agent's skills,
 `AGENTS.md`, or `CLAUDE.md` without removing useful specialist capability.
